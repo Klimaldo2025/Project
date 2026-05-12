@@ -6,8 +6,8 @@ from apscheduler.schedulers.asyncio import AsyncIOScheduler
 import google.genai as genai
 
 # ====================== ВПИШИ СВОИ ДАННЫЕ СЮДА ======================
-TELEGRAM_TOKEN = 8771254894:AAEr1eRoMuL7Sz1IhH4--LQBPKnTcRJKVcU
-GEMINI_API_KEY = AIzaSyAdu-sr4_Y3JkgBHNTQWKFXT958VALXH2g
+TELEGRAM_TOKEN = "8771254894:AAEr1eRoMuL7Sz1IhH4--LQBPKnTcRJKVcU"
+GEMINI_API_KEY = "AIzaSyAdu-sr4_Y3JkgBHNTQWKFXT958VALXH2g"
 CHAT_ID = 5305929867         # ←←← ТВОЙ TELEGRAM ID (число)
 
 # ===================================================================
